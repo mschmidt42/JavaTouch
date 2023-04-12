@@ -1,0 +1,10 @@
+# Maven
+target
+dependency-reduced-pom.xml
+
+# VS-Code
+.vscode
+
+# gradle
+build
+.gradle
